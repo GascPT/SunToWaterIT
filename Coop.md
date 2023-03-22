@@ -34,14 +34,14 @@ In last resort, if thing are not going well inside, we call upon exterior help. 
 
 Since Guilherme and Hugo work, the communication will be from 18:00 onwards. But José is almost always available. 
 We will use mainly Slack and Remo to communicate.
-We'll take breaks when needed be. 
+We'll take breaks when needed be.
 We are all 3 decent people who can stop and listen to what the other has to say so no one is left behind or unheard.
 
 # Work Plan
 
 The work will be devided by the 3 of us, we will always tell the others what we did and explain how we did as progress is made in the dailly meetings.
 
-The project management tool chosen by all 3 is ______
+The project management tool chosen by all 3 is Github.
 
 # Git Process
 
