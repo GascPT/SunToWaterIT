@@ -3,9 +3,9 @@
 ## In this project there are 3 people: José, Hugo and Guilherme
 
 ### Hugo
-* **Key Strengths -** 
-* **How and where to use those strengths -** 
-* **Which is the professional ability that I want to develop -**
+* **Key Strengths -** Problem Solving.
+* **How and where to use those strengths -** Use my problem-solving skills in a wide range of settings. For instance, leverage my strengths in a professional setting by taking on a role that requires me to analyze data, diagnose problems, and develop solution.
+* **Which is the professional ability that I want to develop -** I will benefit from developing my ability to plan. Planning involves setting clear goals and objectives, developing strategies to achieve those goals, and monitoring progress along the way.
 
 ### José
 * **Key Strengths -** Communication.
