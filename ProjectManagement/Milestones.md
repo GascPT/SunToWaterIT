@@ -25,18 +25,19 @@
 # Presentation Deliverables
 
 ## Each topic of the presentation must be end by the following dates:
-**A - Introduction**
+**A - Introduction**<br>
 Deadline: 29/03
 
-**B - Topical Overview**
+**B - Topical Overview**<br>
 Deadline: 29/03
 
-**C - Improvements Overview**
+**C - Improvements Overview**<br>
 Deadline: 29/03
 
-**D - PowerShell Script Automation**
+**D - PowerShell Script Automation**<br>
 Deadline: 29/03
-**E - Final Thougths**
+
+**E - Final Thougths**<br>
 Deadline: 29/03
 
 **Q&A**
@@ -44,10 +45,12 @@ Deadline: 29/03
 
 
 # Project Report
-Single File with the following topics
-**G Network Design**
+Single File with the following topics:<br>
+**G - Network Design**<br>
 Deadline: 30/03
-**H Network Services**
+
+**H - Network Services**<br>
 Deadline: 30/03
-**I OS Version Control**
+
+**I - OS Version Control**<br>
 Deadline: 30/03
