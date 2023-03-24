@@ -13,9 +13,9 @@
 * **Which is the professional ability that I want to develop -** Leadership. Not saying that I don't have any sense of leadership, but if I was a great leader combined with my communication skills I would be a valuable asset for any company
 
 ### Guilherme
-* **Key Strengths -** 
-* **How and where to use those strengths -** 
-* **Which is the professional ability that I want to develop -**
+* **Key Strengths -** Knowlodge
+* **How and where to use those strengths -** I will use my knowlodge in the implementation phase of the project.
+* **Which is the professional ability that I want to develop -** Communicate more precisely.
 
 
 # Conflict Plan
@@ -41,7 +41,7 @@ We are all 3 decent people who can stop and listen to what the other has to say 
 
 The work will be devided by the 3 of us, we will always tell the others what we did and explain how we did as progress is made in the dailly meetings.
 
-The project management tool chosen by all 3 is ______
+The project management tool chosen by all 3 is GitHub
 
 # Git Process
 
