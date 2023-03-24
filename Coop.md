@@ -13,7 +13,7 @@
 * **Which is the professional ability that I want to develop -** Leadership. Not saying that I don't have any sense of leadership, but if I was a great leader combined with my communication skills I would be a valuable asset for any company
 
 ### Guilherme
-* **Key Strengths -** Knowlodge
+* **Key Strengths -** Knowledge
 * **How and where to use those strengths -** I will use my knowlodge in the implementation phase of the project.
 * **Which is the professional ability that I want to develop -** Communicate more precisely.
 
