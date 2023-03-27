@@ -1,3 +1,7 @@
+# Planning
+
+Our working schedule is a bit variable, it depends on the availability of the group. But mainly we will work starting at 6pm until, at least, the daily objective (set by us) is completed. 
+
 # Cooperation Plan
 
 ## In this project there are 3 people: José, Hugo and Guilherme
