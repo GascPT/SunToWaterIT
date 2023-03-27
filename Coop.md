@@ -4,7 +4,7 @@ Our working schedule is a bit variable, it depends on the availability of the gr
 
 # Cooperation Plan
 
-## In this project there are 3 people: José, Hugo and Guilherme
+In this project there are 3 people: José, Hugo and Guilherme
 
 ### Hugo
 * **Key Strengths -** Problem Solving.
@@ -21,6 +21,7 @@ Our working schedule is a bit variable, it depends on the availability of the gr
 * **How and where to use those strengths -** I will use my knowlodge in the implementation phase of the project.
 * **Which is the professional ability that I want to develop -** Communicate more precisely.
 
+The way to every element of the group know exactly what is in the project is to every member be present in the daily meetings and submiting any question that one may have. This way there are no leaks in the group.
 
 # Conflict Plan
 
@@ -47,13 +48,16 @@ The work will be devided by the 3 of us, we will always tell the others what we 
 
 The project management tool chosen by all 3 is GitHub
 
+# Presentation Deck
+
+The presentation will be done in Google Docs using the template provided.
 # Git Process
 
 **The project will be divided in:**
 
 The repository will be a private one but shareable with everyone that has the link to it.
 
-**Git flow = branches?**
+Git Flow = We will use branches with PR reviews into the main branch as work flow.
 
 The PRs will be reviewed and discussed at every meeting by all 3 members. The user of the github repository will be in charge of merging the PRs in the meetings.
 
