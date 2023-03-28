@@ -4,7 +4,7 @@
 
 # Implementation Timelines
 
-**Objective 1** - Develop Powershell script that, when executed on a new installation of Windows Server, can fully standup all requisite services to make the server into a DC.
+**Objective 1** - Develop a Powershell script that can fully standup all requisite services to make the server into a DC when executed and installed on a new Windows Server.
 
 **End Date**: 26/03
 
@@ -24,14 +24,14 @@
 
 # Presentation Deliverables
 
-## Each topic of the presentation must be end by the following dates:
+## Each topic of the presentation must be completed by the following dates:
 **A - Introduction**<br>
 Deadline: 29/03
 
 **B - Topical Overview**<br>
 Deadline: 29/03
 
-**C - Improvements Overview**<br>
+**C - Improvement Overview**<br>
 Deadline: 29/03
 
 **D - PowerShell Script Automation**<br>
@@ -39,9 +39,6 @@ Deadline: 29/03
 
 **E - Final Thougths**<br>
 Deadline: 29/03
-
-**Q&A**
-
 
 
 # Project Report
@@ -54,3 +51,9 @@ Deadline: 30/03
 
 **I - OS Version Control**<br>
 Deadline: 30/03
+
+
+# System Diagrams
+This is the network diagram we designed when planning the project deployment.
+
+ ![Network Diagram](images/Top.png) 
